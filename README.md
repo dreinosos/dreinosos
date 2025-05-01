@@ -8,7 +8,7 @@
 
 Hi, I'm **Danny Reinoso**, a Project Administrator and Data Analyst based in Vancouver, BC.
 
-I have 8+ years of experience managing project documentation, supporting engineering and mining teams, and building business intelligence reports using tools like **Power BI**, **Excel**, and **SQL**. I'm currently preparing for the **PL-300 certification** and open to career opportunities in data, admin coordination, or IT support roles.
+I have experience managing project documentation, supporting engineering and mining teams, and building business intelligence reports using tools like **Power BI**, **Excel**, and **SQL**. I'm currently preparing for the **PL-300 certification** and open to career opportunities in data, admin coordination, or IT support roles.
 
 > _“Efficiency is doing things right. Effectiveness is doing the right things.”_ — Peter Drucker
 
