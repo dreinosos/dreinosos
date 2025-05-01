@@ -25,8 +25,20 @@ I have experience managing project documentation, supporting engineering and min
 - **Project Tools**: Primavera P6, MS Project, Agile  
 - **Languages**: English (Intermediate–Advanced), Spanish (Native)
   
+<h4> Tools: </h4>
+<span>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
 
-  
+## Check out my Social Media
+
+<a href= "https://www.linkedin.com/in/dannyreinoso/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+
+</a>
 
 </td>
 
@@ -35,6 +47,8 @@ I have experience managing project documentation, supporting engineering and min
 <img src="https://github.com/dreinosos/dreinososphoto/blob/main/La%20mejor%20foto.png?raw=true" width="220" alt="Danny Reinoso professional photo" />
 
 <br><br>
+
+
 
 ### 📫 Contact  
 📧 [reisal.danny@gmail.com](mailto:reisal.danny@gmail.com)  
