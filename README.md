@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">Hi there, I'm Danny Reinoso 👋</h2>
 
 <table>
 <tr>
